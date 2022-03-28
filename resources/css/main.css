@@ -1,0 +1,25 @@
+body {
+  font-family: "Tajawal", sans-serif;
+}
+
+.navbar-nav li > ul.dropdown-menu {
+  opacity: 0;
+}
+
+.navbar-nav li:hover > ul.dropdown-menu {
+  opacity: 1;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  transition: all 1s ease;
+  display: block;
+}
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+  top: 0;
+  margin-top: -5px;
+  right: 100%;
+}

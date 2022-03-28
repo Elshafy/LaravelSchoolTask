@@ -1,0 +1,378 @@
+<main class="flex-shrink-0">
+      <div class="container">
+        <div class="my-5 border-bottom pb-3">
+          <h4>نموذج إحصائية اختبار الفترة الأولى للصف الحادي عشر</h4>
+        </div>
+        <div class="row mb-4">
+          <div class="col-md">
+            <!-- Start content -->
+            <form action="" method="post">
+              <table class="table text-center">
+                <thead class="table-light">
+                  <tr>
+                    <td class="fw-bold">الصف</td>
+                    <td class="fw-bold">العدد</td>
+                    <td class="fw-bold">الحاضرون</td>
+                    <td class="fw-bold">الغائبون</td>
+                    <td class="fw-bold">28</td>
+                    <td class="fw-bold">28.5 - 39</td>
+                    <td class="fw-bold">39.5 - 50</td>
+                    <td class="fw-bold">50.5 - 55.5</td>
+                    <td class="fw-bold">56</td>
+                    <td class="fw-bold">الناجح</td>
+                    <td class="fw-bold">الراسب</td>
+                    <td class="fw-bold">النسبة</td>
+                  </tr>
+                </thead>
+                <tbody>
+
+                  <tr>
+                    <td>11د2</td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="20"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="17"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="3"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="text"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="85.00 %"
+                      />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>11د3</td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="20"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="17"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="3"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="text"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="85.00 %"
+                      />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>11د4</td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="20"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="17"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="3"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="text"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="85.00 %"
+                      />
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>11د5</td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="20"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="17"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="number"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="3"
+                      />
+                    </td>
+                    <td>
+                      <input
+                        type="text"
+                        class="form-control text-center"
+                        id="stat-test-1"
+                        value="85.00 %"
+                      />
+                    </td>
+                  </tr>
+                </tbody>
+
+              </table>
+              <button class="btn btn-primary my-4" type="submit">حفظ</button>
+            </form>
+            <!-- End content -->
+          </div>
+        </div>
+      </div>
+    </main>
