@@ -61,10 +61,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). <br>
 steps for use this project.
 1- this is a demo school manahment system. 
-2-you have to guard [user ,teacher].
+2-you have to guard [user ,teacher].<br>
 3-user guard :notdeployed.
 4-teacher guard :only the admin of this school can acees this school and  create read udate delete on this school .
 5- firs you need to seed DataBase to have on school with its component .
